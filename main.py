@@ -2,8 +2,8 @@
 
 Running this program writes one apology line to entry.txt in the
 output folder. The line is checked first (single line, non-empty,
-at most 200 characters), then written straight to the final file
-with no temporary files in the output folder.
+at most 159 characters per the kit gate), then written straight to
+the final file with no temporary files in the output folder.
 """
 
 import os
